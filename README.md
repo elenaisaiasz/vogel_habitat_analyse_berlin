@@ -48,16 +48,16 @@ Aus diesem Grund wird im Folgenden der Fokus auf die 100 m Pufferzone gelegt, da
 ### 100 m Radius
 
 #### Pirol
-![Pirol 100m](Abbildungen/pirol_100m.png)
+![Pirol 100m](Abbildungen/Pirol_100m.png)
 
 #### Rohrammer
-![Rohrammer 100m](Abbildungen/rohrammer_100m.png)
+![Rohrammer 100m](Abbildungen/Rohrammer_100m.png)
 
 #### Wendehals
-![Wendehals 100m](Abbildungen/wendehals_100m.png)
+![Wendehals 100m](Abbildungen/Wendehals_100m.png)
 
 #### Neuntöter
-![Neuntöter 100m](Abbildungen/neuntoeter_100m.png)
+![Neuntöter 100m](Abbildungen/Neuntoeter_100m.png)
 
 
 ## Interpretation der Ergebnisse
